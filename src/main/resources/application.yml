@@ -10,5 +10,5 @@ demo:
 
 logging:
   level:
-    org.springframework: DEBUG
-    com.golinko: DEBUG
+    org.springframework: INFO
+    com.golinko: INFO
