@@ -1,4 +1,4 @@
-package com.golinko.statement.processor.web.converter;
+package com.golinko.statement.processor.dto.converter;
 
 import com.fasterxml.jackson.databind.util.StdConverter;
 import lombok.extern.slf4j.Slf4j;
