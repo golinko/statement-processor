@@ -1,0 +1,92 @@
+[
+  {
+    "reference": "187997",
+    "accountNumber": "NL91RABO0315273637",
+    "description": "Clothes for Rik King",
+    "startBalance": "57.6",
+    "mutation": "-32.98",
+    "endBalance": "24.62",
+    "date": "2010-12-16"
+  },
+  {
+    "reference": "154270",
+    "accountNumber": "NL56RABO0149876948",
+    "description": "Candy for Peter de Vries",
+    "startBalance": "5429",
+    "mutation": "-939",
+    "endBalance": "6368",
+    "date": "2010-01-18"
+  },
+  {
+    "reference": "162197",
+    "accountNumber": "NL90ABNA0585647886",
+    "description": "Tickets for Daniël de Vries",
+    "startBalance": "95.03",
+    "mutation": "+48.33",
+    "endBalance": "143.36",
+    "date": "2010-12-28"
+  },
+  {
+    "reference": "129635",
+    "accountNumber": "NL27SNSB0917829871",
+    "description": "Clothes for Vincent King",
+    "startBalance": "14.48",
+    "mutation": "+16.39",
+    "endBalance": "30.87",
+    "date": "2010-02-01"
+  },
+  {
+    "reference": "148503",
+    "accountNumber": "NL93ABNA0585619023",
+    "description": "Subscription from Willem Dekker",
+    "startBalance": "30.54",
+    "mutation": "-13.18",
+    "endBalance": "17.36",
+    "date": "2010-11-18"
+  },
+  {
+    "reference": "163023",
+    "accountNumber": "NL43AEGO0773393871",
+    "description": "Tickets for Daniël de Vries",
+    "startBalance": "37.79",
+    "mutation": "-40.84",
+    "endBalance": "-3.05",
+    "date": "2015-07-01"
+  },
+  {
+    "reference": "162410",
+    "accountNumber": "NL69ABNA0433647324",
+    "description": "Tickets from Jan Bakker",
+    "startBalance": "10.1",
+    "mutation": "-0.3",
+    "endBalance": "9.8",
+    "date": "2019-05-10"
+  },
+  {
+    "reference": "112747",
+    "accountNumber": "NL56RABO0149876948",
+    "description": "Candy from Jan Dekker",
+    "startBalance": "51.62",
+    "mutation": "-42.36",
+    "endBalance": "9.26",
+    "date": "2015-09-12"
+  },
+  {
+    "reference": "140269",
+    "accountNumber": "NL43AEGO0773393871",
+    "description": "Tickets for Vincent Dekker",
+    "startBalance": "3980",
+    "mutation": "+1000",
+    "endBalance": "4981",
+    "date": "2009-09-11"
+  },
+  {
+    "reference": "115137",
+    "accountNumber": "NL43AEGO0773393871",
+    "description": "Flowers for Jan Theu",
+    "startBalance": "28.19",
+    "mutation": "+3.22",
+    "endBalance": "31.41",
+    "date": "2015-03-03"
+  }
+]
