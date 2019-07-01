@@ -1,0 +1,26 @@
+<records>
+    <record reference="162410">
+        <accountNumber>NL69ABNA0433647324</accountNumber>
+        <description>Tickets from Jan Bakker</description>
+        <startBalance>10.1</startBalance>
+        <mutation>-0.3</mutation>
+        <endBalance>9.8</endBalance>
+        <date>2016-12-09</date>
+    </record>
+    <record reference="112747">
+        <accountNumber>NL56RABO0149876948</accountNumber>
+        <description>Candy from Jan Dekker</description>
+        <startBalance>51.62</startBalance>
+        <mutation>-42.36</mutation>
+        <endBalance>-9.26</endBalance>
+        <date>2016-08-09</date>
+    </record>
+    <record reference="115137">
+        <accountNumber>NL43AEGO0773393871</accountNumber>
+        <description>Flowers for Jan Theuß</description>
+        <startBalance>28.19</startBalance>
+        <mutation>+3.22</mutation>
+        <endBalance>31.41</endBalance>
+        <date>2020-08-12</date>
+    </record>
+</records>
