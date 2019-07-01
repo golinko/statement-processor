@@ -1,0 +1,6 @@
+server:
+  port: 7023
+
+spring:
+  profiles:
+    active: apitest
